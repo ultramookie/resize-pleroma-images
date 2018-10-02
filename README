@@ -1,0 +1,5 @@
+# Resize Pleroma Images
+
+Just storing this in github if I need it later.
+
+Resizes Pleroma uploaded images to save storage space. Cron it.
